@@ -7,7 +7,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://ahanna334.github.io" target="_blank"><img src="preview.gif">
+    <a href="https://ahanna334.github.io" target="_blank"><img src="demo.gif">
   </a>
   </kbd>
 </p>
